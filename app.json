@@ -2,7 +2,7 @@
   "name": "suhail-md@1.3.4",
   "description": "I am Kami-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : t.me/Kami_Broken5",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "KamiMd", "suhail Md bot", "Kami-Md", "KamiMdWhatsaooBot", "KamiWaBot","KamiMd","Kami Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "KamiMd", "Kami Md bot", "Kami-Md", "KamiMdWhatsaooBot", "KamiWaBot","KamiMd","Kami Md Whatsapp Bot","multi device"],
   "success_url": "/kami/",
   "app_url": "/qr/",
   
